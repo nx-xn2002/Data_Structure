@@ -1,6 +1,6 @@
 package follow_programmercarl.array.binary_search;
 
-public class _35_Solution {
+public class _35_ {
     public int searchInsert(int[] nums, int target) {
         if (nums[0] > target) {
             return 0;

@@ -1,8 +1,7 @@
 # 二分查找
 
-## 前提：有序数组
-
-## 重点： 边界条件
+- 前提：有序数组
+- 重点： 边界条件
 
 ### 两种写法：
 
@@ -15,10 +14,13 @@
     - if (nums[middle] > target) right 更新为 middle，因为当前nums[middle]
       不等于target，去左区间继续寻找，而寻找区间是左闭右开区间，所以right更新为middle，即：下一个查询区间不会去比较nums[middle]
 
+- 时间复杂度：O(log n)
+- 空间复杂度：O(1)
+
 #### 例题：
 
 1. [704.二分查找](https://leetcode.cn/problems/binary-search/)
 2. [35. 搜索插入位置](https://leetcode.cn/problems/search-insert-position/)
 3. [34. 在排序数组中查找元素的第一个和最后一个位置](https://leetcode.cn/problems/find-first-and-last-position-of-element-in-sorted-array/)
 4. [69. x 的平方根](https://leetcode.cn/problems/sqrtx/)
-5. 
+5. [367. 有效的完全平方数](https://leetcode.cn/problems/valid-perfect-square/)

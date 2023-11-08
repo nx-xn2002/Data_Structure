@@ -1,6 +1,6 @@
 package follow_programmercarl.array.binary_search;
 
-public class _34_Solution {
+public class _34_ {
     public int[] searchRange(int[] nums, int target) {
         if (nums.length == 0 || nums[0] > target || nums[nums.length - 1] < target) {
             return new int[]{-1, -1};

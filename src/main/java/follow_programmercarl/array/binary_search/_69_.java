@@ -1,6 +1,6 @@
 package follow_programmercarl.array.binary_search;
 
-public class _69_Solution {
+public class _69_ {
     public int mySqrt(int x) {
         if (x <= 1) {
             return x;
