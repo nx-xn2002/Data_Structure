@@ -1,4 +1,4 @@
-# 移除元素
+# 双指针
 
 [27. 移除元素](https://leetcode.cn/problems/remove-element/)
 
