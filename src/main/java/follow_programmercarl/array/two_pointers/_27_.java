@@ -1,4 +1,4 @@
-package follow_programmercarl.array.remove_item;
+package follow_programmercarl.array.two_pointers;
 
 public class _27_ {
     public int removeElement(int[] nums, int val) {

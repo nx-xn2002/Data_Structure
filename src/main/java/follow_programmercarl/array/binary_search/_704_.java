@@ -17,6 +17,7 @@ public class _704_ {
                 right = mid - 1;
             }
         }
+
         return -1;
     }
 }

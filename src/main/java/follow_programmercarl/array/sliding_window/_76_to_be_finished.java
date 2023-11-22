@@ -5,11 +5,8 @@ package follow_programmercarl.array.sliding_window;
  *
  * @author nx
  */
-public class _76_ {
+public class _76_to_be_finished {
     public String minWindow(String s, String t) {
-        if (s.length() < t.length()) {
-            return "";
-        }
-        
+        return null;
     }
 }

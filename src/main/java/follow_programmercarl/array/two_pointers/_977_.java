@@ -1,4 +1,4 @@
-package follow_programmercarl.array.remove_item;
+package follow_programmercarl.array.two_pointers;
 
 /**
  * 977. 有序数组的平方

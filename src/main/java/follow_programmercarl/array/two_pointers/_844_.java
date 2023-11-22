@@ -1,4 +1,4 @@
-package follow_programmercarl.array.remove_item;
+package follow_programmercarl.array.two_pointers;
 
 /**
  * 844. 比较含退格的字符串

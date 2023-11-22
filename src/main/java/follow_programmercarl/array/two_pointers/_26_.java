@@ -1,4 +1,4 @@
-package follow_programmercarl.array.remove_item;
+package follow_programmercarl.array.two_pointers;
 
 /**
  * 26. 删除有序数组中的重复项
