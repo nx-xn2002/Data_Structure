@@ -5,4 +5,9 @@
     2. [双指针](./array/two_pointers)
     3. [滑动窗口](./array/sliding_window) 76.to be finished
     4. [矩阵数组操作](./array/matrix)
-   
+
+2. [链表](./linked_list)
+   1. [移除元素](./linked_list/remove_item)
+   2. [移除元素](./linked_list/design_linkedlist)
+   3. 
+
