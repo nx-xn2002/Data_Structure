@@ -1,4 +1,4 @@
-package follow_programmercarl.linked_list.design_linkedlist;
+package follow_programmercarl.linked_list;
 
 import follow_programmercarl.linked_list.ListNode;
 

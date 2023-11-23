@@ -7,7 +7,5 @@
     4. [矩阵数组操作](./array/matrix)
 
 2. [链表](./linked_list)
-   1. [移除元素](./linked_list/remove_item)
-   2. [移除元素](./linked_list/design_linkedlist)
-   3. 
+3. 
 

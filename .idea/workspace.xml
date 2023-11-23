@@ -5,23 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f4f4ca31-eb75-41a1-88b1-6e323685ee5f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/follow_programmercarl/array/matrix/_54_.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/follow_programmercarl/linked_list/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/follow_programmercarl/linked_list/_0207_.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/follow_programmercarl/linked_list/_142_.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/follow_programmercarl/linked_list/_19_.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/follow_programmercarl/linked_list/_206_.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/follow_programmercarl/linked_list/_24_.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/follow_programmercarl/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/follow_programmercarl/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/follow_programmercarl/array/binary_search/_704_.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/follow_programmercarl/array/binary_search/_704_.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/follow_programmercarl/array/matrix/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/follow_programmercarl/array/matrix/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/follow_programmercarl/array/matrix/_59_.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/follow_programmercarl/array/matrix/_59_.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/follow_programmercarl/array/sliding_window/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/follow_programmercarl/array/sliding_window/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/follow_programmercarl/array/sliding_window/_209_.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/follow_programmercarl/array/sliding_window/_209_.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/follow_programmercarl/array/sliding_window/_76_to_be_finished.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/follow_programmercarl/array/sliding_window/_76_to_be_finished.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/follow_programmercarl/array/sliding_window/_904_.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/follow_programmercarl/array/sliding_window/_904_.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/follow_programmercarl/array/two_pointers/_26_.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/follow_programmercarl/array/two_pointers/_26_.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/follow_programmercarl/array/two_pointers/_27_.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/follow_programmercarl/array/two_pointers/_27_.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/follow_programmercarl/array/two_pointers/_283_.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/follow_programmercarl/array/two_pointers/_283_.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/follow_programmercarl/array/two_pointers/_844_.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/follow_programmercarl/array/two_pointers/_844_.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/follow_programmercarl/array/two_pointers/_977_.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/follow_programmercarl/array/two_pointers/_977_.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/follow_programmercarl/linked_list/design_linkedlist/MyLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/follow_programmercarl/linked_list/MyLinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/follow_programmercarl/linked_list/remove_item/_203.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/follow_programmercarl/linked_list/_203.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,27 +58,27 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;deletionFromPopupRequiresConfirmation&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/Myjavaproject/DataStructure/src/main/java/follow_programmercarl/array/sliding_window&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;File.Encoding&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "deletionFromPopupRequiresConfirmation": "false",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "D:/Myjavaproject/DataStructure/src/main/java/follow_programmercarl/array/sliding_window",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "GrepConsole",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\Myjavaproject\DataStructure\src\main\java\follow_programmercarl\array\sliding_window" />
@@ -94,7 +87,7 @@
       <recent name="D:\Myjavaproject\DataStructure" />
     </key>
   </component>
-  <component name="RunManager" selected="Application._59_">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="DataStructure" />
@@ -168,7 +161,8 @@
       <workItem from="1700215495232" duration="32000" />
       <workItem from="1700378554504" duration="2453000" />
       <workItem from="1700537950551" duration="489000" />
-      <workItem from="1700653306191" duration="1253000" />
+      <workItem from="1700653306191" duration="7509000" />
+      <workItem from="1700720318470" duration="7209000" />
     </task>
     <servers />
   </component>
