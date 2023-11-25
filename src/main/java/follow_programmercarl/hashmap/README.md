@@ -56,5 +56,23 @@
 - 时间复杂度O(m+n)
 - 空间复杂度O(1)
 
+## 三数之和
+
+[15. 三数之和](https://leetcode.cn/problems/3sum/)
+
+这题其实不适合使用哈希表，直接使用双指针，i确定第一个数，left=i+1确定第二个，right=len-1确定第三个数。然后while循环判断left<
+right即可
+
+- 时间复杂度O(n^2)
+- 空间复杂度O(1)
+
+## 四数之和
+
+[18. 四数之和](https://leetcode.cn/problems/4sum/)
+
+也是使用双指针法，注意去重
+
+- 时间复杂度O(n^3)
+- 空间复杂度O(1)
 
 
