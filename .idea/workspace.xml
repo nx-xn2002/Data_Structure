@@ -5,10 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f4f4ca31-eb75-41a1-88b1-6e323685ee5f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/follow_programmercarl/hashmap/_15_.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/follow_programmercarl/hashmap/_18_.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/follow_programmercarl/string/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/follow_programmercarl/string/_151_.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/follow_programmercarl/string/_344_.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/follow_programmercarl/string/_541_.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/follow_programmercarl/string/_54_.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/follow_programmercarl/hashmap/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/follow_programmercarl/hashmap/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/follow_programmercarl/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/follow_programmercarl/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -168,7 +171,7 @@
       <workItem from="1700733568219" duration="409000" />
       <workItem from="1700745421139" duration="2301000" />
       <workItem from="1700835277031" duration="2953000" />
-      <workItem from="1700893267741" duration="2362000" />
+      <workItem from="1700893267741" duration="5639000" />
     </task>
     <servers />
   </component>
