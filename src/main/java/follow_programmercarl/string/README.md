@@ -31,6 +31,23 @@
 
 [151. 反转字符串中的单词](https://leetcode.cn/problems/reverse-words-in-a-string/)
 
+## 实现 strStr()
 
+[28. 实现 strStr()](https://leetcode.cn/problems/find-the-index-of-the-first-occurrence-in-a-string/)
 
+kmp算法,需常看  
+[https://programmercarl.com/0028.%E5%AE%9E%E7%8E%B0strStr.html#%E6%80%9D%E8%B7%AF](https://programmercarl.com/0028.%E5%AE%9E%E7%8E%B0strStr.html#%E6%80%9D%E8%B7%AF)
 
+- 时间复杂度: O(n + m)
+- 空间复杂度: O(m)
+
+## 重复的子字符串
+
+[459. 重复的子字符串](https://leetcode.cn/problems/repeated-substring-pattern/)
+
+kmp算法,需常看  
+[链接](https://programmercarl.com/0459.%E9%87%8D%E5%A4%8D%E7%9A%84%E5%AD%90%E5%AD%97%E7%AC%A6%E4%B8%B2.
+html#%E6%80%9D%E8%B7%AF)
+
+- 时间复杂度: O(n)
+- 空间复杂度: O(1)
