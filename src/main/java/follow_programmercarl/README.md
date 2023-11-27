@@ -9,7 +9,7 @@
 2. [链表](./linked_list)
 3. [哈希表](./hashmap)
 4. [字符串](./string)  kmp算法需常看
-
-
+5. [双指针](./two_pointers)
+6. [栈和队列](./stack_and_queue)
 
 

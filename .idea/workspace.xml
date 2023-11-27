@@ -5,10 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f4f4ca31-eb75-41a1-88b1-6e323685ee5f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/follow_programmercarl/string/_28_.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/follow_programmercarl/string/_459_.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/follow_programmercarl/stack_and_queue/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/follow_programmercarl/stack_and_queue/_20_.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/follow_programmercarl/stack_and_queue/_225_.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/follow_programmercarl/stack_and_queue/_232_.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/follow_programmercarl/two_pointers/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/follow_programmercarl/two_pointers/_27_.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/follow_programmercarl/two_pointers/_344_.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/follow_programmercarl/string/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/follow_programmercarl/string/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/follow_programmercarl/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/follow_programmercarl/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,7 +74,7 @@
     &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;ai.codegeex.plugin.settings.ApplicationConfigurable&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;terminal&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
@@ -169,7 +174,8 @@
       <workItem from="1700745421139" duration="2301000" />
       <workItem from="1700835277031" duration="2953000" />
       <workItem from="1700893267741" duration="5964000" />
-      <workItem from="1701000838740" duration="3574000" />
+      <workItem from="1701000838740" duration="4492000" />
+      <workItem from="1701087934522" duration="6614000" />
     </task>
     <servers />
   </component>
@@ -186,5 +192,9 @@
         <option value="Space.CommitStatus" />
       </list>
     </option>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
