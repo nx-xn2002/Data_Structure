@@ -21,5 +21,32 @@
 - 时间复杂度O(n)
 - 空间复杂度O(n)
 
+## 删除字符串中的所有相邻重复项
+
+[1047. 删除字符串中的所有相邻重复项](https://leetcode.cn/problems/remove-all-adjacent-duplicates-in-string/)
+
+使用栈，当栈为空或者栈顶与当前不同，则入栈，否则，出栈。此处Java我选择使用StringBuilder来模拟栈，省去最后转换为字符串的操作
+
+- 时间复杂度O(n)
+- 空间复杂度O(1)
+
+## 逆波兰表达式求值
+
+[150. 逆波兰表达式求值](https://leetcode.cn/problems/evaluate-reverse-polish-notation/)
+
+理解题意之后很好做，即当遍历到数字时，放入栈中，当遍历到符号时，从栈中取出两个元素，运算后，将结果放回栈中
+
+- 时间复杂度O(n)
+- 空间复杂度O(n)
+
+## 滑动窗口最大值
+
+[239. 滑动窗口最大值](https://leetcode.cn/problems/sliding-window-maximum/)
+
+使用一个辅助单调队列实现
+
+- 时间复杂度: O(n)
+- 空间复杂度: O(k)
+
 
 
