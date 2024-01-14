@@ -11,5 +11,6 @@
 4. [字符串](./string)  kmp算法需常看
 5. [双指针](./two_pointers)
 6. [栈和队列](./stack_and_queue)
+6. [二叉树](./binary_tree)
 
 

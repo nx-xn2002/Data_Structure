@@ -10,7 +10,7 @@ public class _344_ {
             char temp = s[left];
             s[left] = s[right];
             s[right] = temp;
-            right--;
+            right++;
             left++;
         }
     }
