@@ -42,6 +42,15 @@
 
 [199. 二叉树的右视图](https://leetcode.cn/problems/binary-tree-right-side-view/description/)
 
-[637. 二叉树的层平均值]()
+[637. 二叉树的层平均值](https://leetcode.cn/problems/average-of-levels-in-binary-tree/description/)
 
+[429. N 叉树的层序遍历](https://leetcode.cn/problems/n-ary-tree-level-order-traversal/description/)
+
+[515. 在每个树行中找最大值](https://leetcode.cn/problems/find-largest-value-in-each-tree-row/)
+
+[116. 填充每个节点的下一个右侧节点指针](https://leetcode.cn/problems/populating-next-right-pointers-in-each-node/description/)
+
+[104. 二叉树的最大深度](https://leetcode.cn/problems/maximum-depth-of-binary-tree/description/)
+
+[111. 二叉树的最小深度](https://leetcode.cn/problems/minimum-depth-of-binary-tree/description/)
 
