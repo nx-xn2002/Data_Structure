@@ -54,3 +54,28 @@
 
 [111. 二叉树的最小深度](https://leetcode.cn/problems/minimum-depth-of-binary-tree/description/)
 
+## 翻转二叉树
+
+[226. 翻转二叉树](https://leetcode.cn/problems/invert-binary-tree/description/)
+
+注意要显式地将左右节点翻转
+
+## 对称二叉树
+
+[101. 对称二叉树](https://leetcode.cn/problems/symmetric-tree)
+
+**要点：使用递归实现时，注意对称节点是什么**
+
+## 二叉树的最大深度
+
+[104. 二叉树的最大深度](https://leetcode.cn/problems/maximum-depth-of-binary-tree/description/)
+
+可以使用先序遍历加回溯来求，但我更喜欢用层序遍历来求解
+
+## 完全二叉树的节点个数
+
+[222. 完全二叉树的节点个数](https://leetcode.cn/problems/count-complete-tree-nodes/description/)
+
+可以按普通二叉树的层序遍历来做，也可以利用完全二叉树的性质，先统计深度，再进行计算
+
+
