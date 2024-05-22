@@ -14,11 +14,6 @@ public class BinarySearch {
     static class Solution {
         /**
          * 左闭右闭
-         *
-         * @param nums   nums
-         * @param target target
-         * @return int
-         * @author Ni Xiang
          */
         public int search1(int[] nums, int target) {
             int left = 0, right = nums.length - 1;
@@ -38,11 +33,6 @@ public class BinarySearch {
 
         /**
          * 左闭右开
-         *
-         * @param nums   nums
-         * @param target target
-         * @return int
-         * @author Ni Xiang
          */
         public int search2(int[] nums, int target) {
             int left = 0, right = nums.length;
