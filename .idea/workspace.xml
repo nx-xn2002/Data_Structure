@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f4f4ca31-eb75-41a1-88b1-6e323685ee5f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/follow_programmercarl/day1/RemoveElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/follow_programmercarl/day2/GenerateMatrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/follow_programmercarl/day2/SlidingWindow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/follow_programmercarl/day2/SortedSquares.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -220,7 +222,11 @@
       <workItem from="1716129939857" duration="304000" />
       <workItem from="1716302472609" duration="2505000" />
       <workItem from="1716309013388" duration="3397000" />
-      <workItem from="1716353160920" duration="315000" />
+      <workItem from="1716353160920" duration="1832000" />
+      <workItem from="1716365122649" duration="232000" />
+      <workItem from="1716365592931" duration="366000" />
+      <workItem from="1716401335576" duration="446000" />
+      <workItem from="1716458861734" duration="5353000" />
     </task>
     <servers />
   </component>
