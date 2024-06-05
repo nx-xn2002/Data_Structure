@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f4f4ca31-eb75-41a1-88b1-6e323685ee5f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/follow_programmercarl/day11/EvalRPN.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/follow_programmercarl/day11/IsValid.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/follow_programmercarl/day11/RemoveDuplicates.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/follow_programmercarl/day15/InvertTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/follow_programmercarl/day15/IsSymmetric.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/follow_programmercarl/day15/LevelOrder.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -234,7 +234,10 @@
       <workItem from="1716910576059" duration="1480000" />
       <workItem from="1716996427748" duration="1215000" />
       <workItem from="1717168632593" duration="627000" />
-      <workItem from="1717249538370" duration="1930000" />
+      <workItem from="1717249538370" duration="4294000" />
+      <workItem from="1717305170283" duration="2137000" />
+      <workItem from="1717513956040" duration="597000" />
+      <workItem from="1717602284476" duration="737000" />
     </task>
     <servers />
   </component>
