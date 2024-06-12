@@ -5,10 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f4f4ca31-eb75-41a1-88b1-6e323685ee5f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/follow_programmercarl/day20/ConstructMaximumBinaryTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/follow_programmercarl/day20/IsValidBST.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/follow_programmercarl/day20/MergeTrees.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/follow_programmercarl/day20/SearchBST.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/follow_programmercarl/day21/GetMinimumDifference.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -245,7 +242,8 @@
       <workItem from="1717691153454" duration="269000" />
       <workItem from="1717691475087" duration="3435000" />
       <workItem from="1717860904941" duration="1036000" />
-      <workItem from="1718114421517" duration="2225000" />
+      <workItem from="1718114421517" duration="2827000" />
+      <workItem from="1718205129181" duration="523000" />
     </task>
     <servers />
   </component>
