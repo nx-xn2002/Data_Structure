@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f4f4ca31-eb75-41a1-88b1-6e323685ee5f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/follow_programmercarl/day28/FindSubsequences.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/follow_programmercarl/day28/Permute.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/follow_programmercarl/day29/FindContentChildren.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -250,7 +249,8 @@
       <workItem from="1718464857260" duration="2629000" />
       <workItem from="1718637728353" duration="1244000" />
       <workItem from="1718724373508" duration="959000" />
-      <workItem from="1718810711901" duration="414000" />
+      <workItem from="1718810711901" duration="674000" />
+      <workItem from="1718895430157" duration="492000" />
     </task>
     <servers />
   </component>
