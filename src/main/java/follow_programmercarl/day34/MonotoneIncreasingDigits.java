@@ -1,7 +1,5 @@
 package follow_programmercarl.day34;
 
-import java.util.Arrays;
-
 /**
  * 738. 单调递增的数字
  * <p>
