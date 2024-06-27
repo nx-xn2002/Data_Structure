@@ -5,11 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f4f4ca31-eb75-41a1-88b1-6e323685ee5f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/follow_programmercarl/day35/ClimbStairs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/follow_programmercarl/day35/Fib.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/follow_programmercarl/day35/MinCostClimbingStairs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/follow_programmercarl/day36/IntegerBreak.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/follow_programmercarl/day36/UniquePaths.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/follow_programmercarl/day36/UniquePathsWithObstacles.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/follow_programmercarl/day34/MonotoneIncreasingDigits.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/follow_programmercarl/day34/MonotoneIncreasingDigits.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -259,7 +258,8 @@
       <workItem from="1719077759677" duration="186000" />
       <workItem from="1719233426815" duration="1378000" />
       <workItem from="1719321788144" duration="1764000" />
-      <workItem from="1719414726878" duration="661000" />
+      <workItem from="1719414726878" duration="1506000" />
+      <workItem from="1719501221317" duration="992000" />
     </task>
     <servers />
   </component>
