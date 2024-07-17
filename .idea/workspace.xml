@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f4f4ca31-eb75-41a1-88b1-6e323685ee5f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/follow_programmercarl/day55/IslandAllArea.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/follow_programmercarl/day55/SankIsland.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/follow_programmercarl/day55/WaterProblem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/follow_programmercarl/day56/CanGoAnyNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/follow_programmercarl/day56/IslandPerimeter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/follow_programmercarl/day56/StringSolitaire.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -97,6 +97,7 @@
       <recent name="D:\Myjavaproject\DataStructure" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="follow_programmercarl.day56" />
       <recent name="follow_programmercarl.day55" />
       <recent name="follow_programmercarl.day53" />
     </key>
@@ -316,7 +317,8 @@
       <workItem from="1720791083708" duration="915000" />
       <workItem from="1720879253871" duration="2522000" />
       <workItem from="1721050747881" duration="3716000" />
-      <workItem from="1721138334625" duration="1633000" />
+      <workItem from="1721138334625" duration="1878000" />
+      <workItem from="1721225156364" duration="3410000" />
     </task>
     <servers />
   </component>
